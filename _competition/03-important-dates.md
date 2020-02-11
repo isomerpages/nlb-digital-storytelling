@@ -7,37 +7,34 @@ permalink: /competition/important-dates/
 
 This is the NDSC 2020 timeline – do take note of the important dates listed below.
 
-<div class="divTable">
-	<div class="divTableBody">
-		<div class="divTableRow">
-			<div class="divTableCell">Registration and proposal submission start date.</div>
-			<div class="divTableCell">3 March 2020</div>
-		</div>
-		<div class="divTableRow">
-			<div class="divTableCell">Registration and proposal submission deadline. </div>
-			<div class="divTableCell">13 April 2020</div>
-		</div>
-		<div class="divTableRow">
-			<div class="divTableCell">Shortlisted teams will be invited to participate in training sessions organised by Microsoft Singapore, and tour the Stories Come Alive Room at library@harbourfront.</div>
-			<div class="divTableCell">Week of 4-8 Jun 2020</div>
-		</div>
-		<div class="divTableRow">
-			<div class="divTableCell">Shortlisted teams will be invited to rehearse their storytelling in the Stories Come Alive Room at library@harbourfront. This would include running the PowerPoint slides so the work should be as close to completion as possible. 
-</div>
-			<div class="divTableCell">Week of 29 June - 3 July 2020</div>
-		</div>
-		<div class="divTableRow">
-			<div class="divTableCell">Semi-finals held in the Stories Come Alive Room at library@harbourfront. 
-</div>
-			<div class="divTableCell">28-29 June 2020</div>
-		</div>
-		<div class="divTableRow">
-			<div class="divTableCell">Final round held in the Stories Come Alive Room at library@harbourfront.
-</div>
-			<div class="divTableCell">30 June 2020</div>
-		</div>
-	</div>
-</div>
+<table style="width: 100%;" border="1">
+	<tbody>
+		<tr>
+			<td>Registration and proposal submission start date.</td>
+			<td>3 March 2020</td>
+		</tr>
+		<tr>
+			<td>Registration and proposal submission deadline.</td>
+			<td>13 April 2020</td>
+		</tr>
+		<tr>
+			<td>Shortlisted teams will be invited to participate in training sessions organised by Microsoft Singapore, and tour the Stories Come Alive Room at library@harbourfront.</td>
+			<td>Week of 4-8 Jun 2020</td>
+		</tr>
+		<tr>
+			<td>Shortlisted teams will be invited to rehearse their storytelling in the Stories Come Alive Room at library@harbourfront. This would include running the PowerPoint slides so the work should be as close to completion as possible.</td>
+			<td>Week of 29 June - 3 July 2020</td>
+		</tr>
+		<tr>
+			<td>Semi-finals held in the Stories Come Alive Room at library@harbourfront.</td>
+			<td>28-29 June 2020</td>
+		</tr>
+		<tr>
+			<td>Final round held in the Stories Come Alive Room at library@harbourfront.</td>
+			<td>30 June 2020</td>
+		</tr>
+	</tbody>
+</table>
 
 <hr/>
 
