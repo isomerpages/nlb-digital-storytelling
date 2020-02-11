@@ -10,7 +10,12 @@ links:
   - title: Who We Are
     collection: who-we-are
   - title: Registration
-    url: /registration/
+    url: /registration/how-to-join-ndsc-2020/
+    sublinks:
+      - title: "How to join?"
+        url: /registration/how-to-join-ndsc-2020/
+      - title: Join now
+        url: https://form.sg
   - title: Competition
     collection: competition
   - title: Contact Us
