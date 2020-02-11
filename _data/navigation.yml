@@ -7,13 +7,10 @@
 logo: /images/isomer-logo.svg
 
 links:
+  - title: Who We Are
+    collection: who-we-are
+  - title: Registration
+    url: /registration/
+  - title: Competition
+    collection: competition
   - title: Contact Us
-    url: /contact-us/
-  - title: Simple Page A
-    url: /simple-page-a/
-  - title: Left Nav A
-    collection: left-nav-a
-  - title: Left Nav B
-    collection: left-nav-b
-  - title: Resource Room
-    resource_room: true
