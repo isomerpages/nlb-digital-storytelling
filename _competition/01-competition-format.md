@@ -9,6 +9,8 @@ The semi-finals and finals will be held in the Stories Come Alive Room at librar
 - 5 minutes storytelling time 
 - 3 minutes Q&A with the judging panel *(Note: All team members must be present to answer the judges’ questions.)*
 
+<hr/>
+
 When creating multimedia stories, please adhere to these guidelines:
 
 - Use our Storytelling PowerPoint template when creating multimedia stories and ensure that the visuals/ animation used fall within the parameters of the template. This will ensure that the presentation will be projected properly onto the walls of the Stories Come Alive Room without any distortions. Participants can download the Storytelling template here. 
