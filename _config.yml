@@ -20,6 +20,10 @@ colors:
 
 
 collections:
+  who-we-are:
+    output: true
+  competition:
+    output: true
   left-nav-a:
     output: true
   left-nav-b:
