@@ -2,7 +2,7 @@
 layout: homepage
 title: National Digital Storytelling Competition 2020
 description: "The National Digital Storytelling Competition (NDSC) is an annual school tournament in which students are invited to conceptualise and create interactive multimedia stories using software such as Paint 3D and PowerPoint."
-image: /images/isomer-logo.svg
+image: /images/logo-ndsc.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
