@@ -1,6 +1,9 @@
-contact_us: /contact-us/
+contact_us: https://www.nlb.gov.sg/ContactUs.aspx
 show_reach: false
 faq: /faq/
+privacy_policy: https://www.nlb.gov.sg/PrivacyStatement.aspx
+terms_of_use: https://www.nlb.gov.sg/TermsofUse.aspx
+copyright_agency: National Library Board
 social_media:
     facebook: https://www.facebook.com/nlbsingapore
     youtube: http://www.youtube.com.sg/user/NationalLibraryBoard
