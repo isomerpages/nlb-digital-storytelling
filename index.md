@@ -19,6 +19,9 @@ sections:
             - title: Terms & Conditions
               description: 
               url: https://gmail.com
+			- title: Important Dates
+              description: 
+              url: https://gmail.com
     - infobar:
         title: Infobar title
         subtitle: Subtitle
