@@ -7,29 +7,22 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: 
+        subtitle: "No story lives unless some wants to listen. The stories we love best do live in us forever. <br/>- J.K. Rowling"
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
+            - title: Join Now
+              description: 
               url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
+            - title: Terms & Conditions
+              description: 
               url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
     - infobar:
         title: Infobar title
         subtitle: Subtitle
         description: About a sentence worth of description here
         button: Button text
         url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
 ---
