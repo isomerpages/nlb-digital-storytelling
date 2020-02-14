@@ -7,8 +7,8 @@
 logo: /images/logo-ndsc.png
 
 links:
-  - title: Who We Are
-    collection: who-we-are
+  - title: About Us
+    collection: About Us
   - title: Registration
     url: /registration/how-to-join-ndsc-2020/
     sublinks:
