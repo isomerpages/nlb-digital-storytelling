@@ -20,7 +20,7 @@ colors:
 
 
 collections:
-  who-we-are:
+  about-us:
     output: true
   competition:
     output: true
