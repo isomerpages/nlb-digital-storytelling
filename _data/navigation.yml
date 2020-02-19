@@ -7,16 +7,16 @@
 logo: /images/logo-ndsc.png
 
 links:
-  - title: About Us
+  - title: Find Out More
     collection: about
   - title: Registration
     url: /registration/how-to-join-ndsc-2020/
     sublinks:
       - title: "How to join?"
         url: /registration/how-to-join-ndsc-2020/
-      - title: Join now
+      - title: Register now
         url: https://form.gov.sg/5e44b956dc8fe70011234a12
-      - title: Indemnity & Consent Form
+      - title: Registration and consent forms
         url: https://form.gov.sg/5e44f7cebaca490011b9dc05
   - title: Competition
     collection: competition
