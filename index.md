@@ -25,4 +25,20 @@ sections:
         description: Can win prize one.
         button: Win Now
         url: /faq/
+    - infopic:
+        title: Tinky Winky
+        subtitle: Dipsy
+        description: Lalalalalalalalalalalalalalalalala
+        button: Po
+        url: /hello
+        image: /images/photo-gallery/DSCF5589.jpg
+        alt: Members of the Ministry of ABC shaking hand
+    - infopic:
+        title: Professionalism
+        subtitle: Core Values
+        description: We strive to deliver work of the highest calibre
+        button: Learn More
+        url: /core-values/
+        image: /images/professionalism.png
+        alt: Members of the Ministry of ABC in suits
 ---
