@@ -11,4 +11,4 @@ This Isomer thing is really not so bad. This is a test test testing! I wonder ho
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kqQ166Ceb54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Team from Raffles Girls School (Secondary)](C:\Users\NLB\Documents\GitHub\nlb-digital-storytelling\images\photo-gallery\DSCF5614.jpg)
+![Team from Raffles Girls School (Secondary)](images\photo-gallery\DSCF5614.jpg)
