@@ -7,22 +7,22 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: 
-        subtitle: "No story lives unless some wants to listen. The stories we love best do live in us forever. <br/>- J.K. Rowling"
-        background: /images/hero-banner.png
-        button: Contact Us
+        title: National Digital Storytelling Competition 2020
+        subtitle: "This is the only Competition that matters!. <br/>- Diana Othman"
+        background: /images/NDSC-2019-RGS.jpg
+        button: Find Out More
         url: /contact-us/
         key_highlights:
-            - title: Join Now
+            - title: Join the cult NOW
               description: 
               url: https://google.com
-            - title: Terms & Conditions
+            - title: The Rules of the Game
               description: 
               url: https://gmail.com
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
+        title: Tell me a story
+        subtitle: And make it interesting! Or else.
+        description: Can win prize one.
+        button: Win Now
         url: /faq/
 ---
