@@ -3,7 +3,7 @@ title: About National Digital Storytelling Competition
 permalink: /about-us/about-ndsc/
 ---
 
-### **What is the National Digital Storytelling Competition?**
+### **What is the National Digital Storytelling Competition**
 Launched in 2018 as a collaboration with Microsoft Singapore, the National Digital Storytelling Competition (NDSC) is an annual school tournament in which students are invited to conceptualise and create interactive multimedia stories using software such as Paint 3D and PowerPoint. Top teams stand a chance to win attractive prizes and their stories will be used by NLB librarians during actual storytelling sessions held at the Stories Come Alive Room in library@harboutfront. 
 
 Now in its third year, NDSC 2020 is targeted at students from secondary schools and post-secondary institutions (ITE colleges, polytechnics and junior colleges) in Singapore. We welcome students from Special Education (SPED) schools to join in the fun as well. If you are eligible, here’s your chance to get creative! 
