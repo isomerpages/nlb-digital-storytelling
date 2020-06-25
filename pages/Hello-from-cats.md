@@ -1,5 +1,5 @@
 ---
-title: Hello from dogs!
+title: Hello from kitten!
 permalink: /hello
 ---
 
