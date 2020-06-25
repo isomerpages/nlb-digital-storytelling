@@ -5,7 +5,7 @@ permalink: /hello
 
 ### **Hello!!!**
 
-This Isomer thing is really not so bad. This is a test test testing! I wonder how it'll turn out in the end. I hope it'll be nice. Click [here](https://www.google.com) to watch a cat video.
+This Isomer thing is really not so bad. This is a test test testing! I wonder how it'll turn out in the end. I hope it'll be nice. Click [here](https://www.google.com){:target="_blank"} to watch a cat video.
 
 
 
