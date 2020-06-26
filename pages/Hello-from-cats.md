@@ -1,5 +1,5 @@
 ---
-title: Hello from kitten!
+title: Hello from flying kitten!
 permalink: /hello
 ---
 
